@@ -38,7 +38,7 @@ git clone https://github.com/atharvabharambe/Face-Recognizer-using-OpenCV.git
 
 ## Contributors
 
-- [Atharva Bharammbe](https://github.com/atharvabharambe) and [Suyash Bhanwase](https://github.com/BhanwaseSuyash)
+- [Atharva Bharambe](https://github.com/atharvabharambe) and [Suyash Bhanwase](https://github.com/BhanwaseSuyash)
 
 
 ## 🔗 Contact Me
