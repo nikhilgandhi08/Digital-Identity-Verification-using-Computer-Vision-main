@@ -42,5 +42,5 @@ git clone https://github.com/atharvabharambe/Face-Recognizer-using-OpenCV.git
 
 
 ## 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://atharvabharambe.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/atharva-bharambe-715833281)
+
+[![linkedin]([https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/atharva-bharambe-715833281](https://www.linkedin.com/in/nikhil-gandhi-41016a250/))
